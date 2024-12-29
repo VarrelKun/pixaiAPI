@@ -15,7 +15,7 @@ createGenerationTask = r"""
       "width": 512,
       "height": 768,
       "clipSkip": 2,
-      "modelId": "1648918127446573124",
+      "modelId": "1779937860287365598",
       "controlNets": []
     }
   }
